@@ -1,0 +1,13 @@
+backups/
+*.tar.bz2
+*.tar.gz
+*.keytab
+*.key
+*.pem
+*.ldb
+*.tdb
+krb5.conf
+smb.conf
+secrets*
+raw-screenshots/
+.DS_Store
